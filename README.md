@@ -1,4 +1,4 @@
-# laravel-xsd-to-form-generator  ¯\_(ツ)_//¯
+# laravel-xsd-to-form-generator  ¯\\_(ツ)_//¯
 
 ![Build passing](https://img.shields.io/badge/Build-pass-brightgreen)
 
